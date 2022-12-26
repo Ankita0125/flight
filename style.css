@@ -192,6 +192,30 @@ body{
     color: var(--light-color);
     font-size: 1.7rem;}
 
+    .book{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        background-image: url(image/pexels-pixabay-47044.jpg);
+        background-position: center;
+        background-size: cover;
+        padding-top: 17rem;
+        padding-bottom: 50rem;
+    
+    }
+    .book .content{
+        text-align: center;
+        width: 60rem;
+    }
+    .book .content h3{
+        color: var(--black);
+        font-size: 6rem;
+    
+    }
+    .book .content p{
+        color: var(--light-color);
+        font-size: 1.7rem;}
+    
 
 
 
